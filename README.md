@@ -1,5 +1,5 @@
-# Expense_Tracker_-GUI-
-"Expense_Tracker_(GUI)" is a project aimed at simplifying personal finance management through a user-friendly graphical interface. 
+# Expense Tracker
+"Expense Tracker" is a project aimed at simplifying personal finance management through a user-friendly graphical interface. 
 
 # What I did In the Project
 1. Created user interface.
